@@ -13,7 +13,7 @@
             "name": "secret-scanning",
             "description": "Scan your codebase for sensitive information and secret.",
             "version": "2.1.0",
-            "source": "./plugins/secret-scanning"
+            "source": "./plugins/secrect-scanning"
         }
     ]
 }
