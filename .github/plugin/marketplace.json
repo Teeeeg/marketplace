@@ -1,0 +1,19 @@
+{
+    "name": "copilot-marketplace",
+    "owner": {
+        "name": "Tao Yu Peng",
+        "email": "yupeng.tao@siemens-healthineers.com"
+    },
+    "metadata": {
+        "description": "Curated plugins for our team",
+        "version": "1.0.0"
+    },
+    "plugins": [
+        {
+            "name": "secret-scanning",
+            "description": "Scan your codebase for sensitive information and secret.",
+            "version": "2.1.0",
+            "source": "./plugins/secret-scanning"
+        }
+    ]
+}
