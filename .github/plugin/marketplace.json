@@ -10,10 +10,10 @@
     },
     "plugins": [
         {
-            "name": "secret-scanning",
-            "description": "Scan your codebase for sensitive information and secret.",
-            "version": "2.1.0",
-            "source": "./plugins/secrect-scanning"
+            "name": "sdd-updater",
+            "description": "Optimize SDD markdown and generate PlantUML diagrams from code.",
+            "version": "1.0.0",
+            "source": "./plugins/sdd-updater"
         }
     ]
 }
